@@ -76,6 +76,9 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 - Lilin Wang (XJTLU BEng’24)
 - Jianfei He (XJTLU BEng’24)
 
+# 👍 Friends
+- [Zimu Wang](https://www.zimuwang.net/) Ph.D. @ UoL & XJTLU, Suzhou, China.
+- [Ruiyu Zhang](https://www.cnblogs.com/rayinfos/) Master @ Edin, Edinburgh, United Kingdom.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
