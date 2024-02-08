@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hongbin Na (那洪彬) is a first-year Master of Research student at the [Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute) (AAII) based in [University of Technology Sydney](https://www.uts.edu.au/) (UTS), working under the supervision of [Prof. Ling Chen](https://profiles.uts.edu.au/Ling.Chen), affiliated with the [University of Technology Sydney Natural Language Processing](https://utsnlp.github.io/) (UTS NLP) Group. He has also been fortunate to receive guidance from [Dr. Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en).
+Hongbin Na (那洪彬) is a first-year Master of Research student at the [Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute) (AAII) based in [University of Technology Sydney](https://www.uts.edu.au/) (UTS), working under the supervision of [Prof. Ling Chen](https://profiles.uts.edu.au/Ling.Chen) (UTS), affiliated with the [University of Technology Sydney Natural Language Processing](https://utsnlp.github.io/) (UTS NLP) Group. He has also been fortunate to receive guidance from [Dr. Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) (Oracle).
 
-His research interest center around Natural Language Processing (NLP). To be specific, his current research topics include Machine Translationn, Text Classification, and Dialogue System. His research goal is to combine Psychology with Large Language Models (LLMs) to explore and develop models capable of understanding complex human emotions and cognitive processes.
+His research interest center around Natural Language Processing (NLP). To be specific, his current research topics include Machine Translation, Text Classification, and Dialogue System. His research goal is to combine Psychology with Large Language Models (LLMs) to explore and develop models capable of understanding complex human emotions and cognitive processes.
 
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
