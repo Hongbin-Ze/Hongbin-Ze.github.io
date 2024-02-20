@@ -27,6 +27,8 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 One paper accepted by <strong>LREC-COLING 2024</strong>: [CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Support](https://hongbin-ze.github.io/).
+- *2024.02*: &nbsp;🎉🎉 New preprint: [Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation](https://arxiv.org/abs/2402.10699).
 - *2024.02*: &nbsp;🎉🎉 Starting from Feb. 2024, I am honored to join the UTS NLP Group as a Master of Research student, advised by [Prof. Ling Chen](https://profiles.uts.edu.au/Ling.Chen).
 - *2023.10*: &nbsp;🎉🎉 One paper accepted by <strong>BIBE 2023</strong>: <a href="http://127.0.0.1:4000/">Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis</a>.
 
@@ -38,7 +40,8 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
             <p>
                 <strong>Hongbin Na*</strong>, Lilin Wang*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, Zimu Wang, and Hong-Seng Gan.
                 Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis.
-                <em>2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering</em> <strong>(BIBE 2023, Core C).</strong>
+                <em>2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering</em> <strong>(BIBE 2023)</strong>
+                <a href="https://hongbin-ze.github.io/">[IEEE Xplore]</a>.
             </p>
         </div>
     </li>
