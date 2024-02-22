@@ -34,10 +34,13 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 # 📝 Publications 
 ## Conference Proceedings:
-- **Hongbin Na\***, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, Zimu Wang, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* **(BIBE 2023)**. [IEEE Xplore](https://ieeexplore.ieee.org/document/10431887).
+- **Hongbin Na\***, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, Zimu Wang, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* **(BIBE 2023)**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10431887)].
 
 ## Patents:
-- Yuegang Sun, Linchun Sun, **Hongbin Na**, Yingjun Zhang. Random font style generation method and system for expanding OCR training set. *Google Patents* (Publication of CN115620307B). [Link](https://patents.google.com/patent/CN115620307A/en).
+- Yuegang Sun, Linchun Sun, **Hongbin Na**, Yingjun Zhang. Random font style generation method and system for expanding OCR training set. *Google Patents* (Publication of CN115620307B). [[Link](https://patents.google.com/patent/CN115620307A/en)].
+
+## Technical Reports:
+- **Hongbin Na**, Zimu Wang, Mieradilijiang Maimaiti, Tong Chen, Wei Wang, Tao Shen, Ling Chen. Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation. arXiv preprint arXiv:2402.10699. [[arXiv](https://arxiv.org/abs/2402.10699)]
 
 
 <!-- # 🎖 Honors and Awards
