@@ -34,7 +34,7 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 # 📝 Publications 
 ## Conference Proceedings:
-- **Hongbin Na**. BT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health  Question Answering. *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation* **(LREC COLING 2024)**. [[Hugging Face](https://huggingface.co/Hongbin37/CBT-LLM)].
+- **Hongbin Na**. CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health  Question Answering. *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation* **(LREC COLING 2024)**. [[Hugging Face](https://huggingface.co/Hongbin37/CBT-LLM)].
 - **Hongbin Na\***, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, Zimu Wang, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* **(BIBE 2023)**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10431887)].
 
 ## Patents:
