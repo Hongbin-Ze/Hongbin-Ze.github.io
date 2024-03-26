@@ -34,11 +34,11 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 # 📝 Publications 
 ## Conference Proceedings:
-- **Hongbin Na**. CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health  Question Answering. *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation* **(LREC COLING 2024)**. [[Hugging Face](https://huggingface.co/Hongbin37/CBT-LLM)].
+- **Hongbin Na**. CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health  Question Answering. *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation* **(LREC COLING 2024)**. [[arXiv](https://arxiv.org/abs/2403.16008), [Hugging Face](https://huggingface.co/Hongbin37/CBT-LLM)].
 - **Hongbin Na\***, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, Zimu Wang, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* **(BIBE 2023)**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10431887)].
 
 ## Patents:
-- Yuegang Sun, Linchun Sun, **Hongbin Na**, Yingjun Zhang. Random font style generation method and system for expanding OCR training set. *Google Patents* (Publication of CN115620307B). [[Link](https://patents.google.com/patent/CN115620307A/en)].
+- Yuegang Sun, Linchun Sun, **Hongbin Na**, Yingjun Zhang. Random font style generation method and system for expanding OCR training set. *Patents* (Publication of CN115620307B). [[Link](https://patents.google.com/patent/CN115620307A/en)].
 
 ## Technical Reports:
 - **Hongbin Na**, Zimu Wang, Mieradilijiang Maimaiti, Tong Chen, Wei Wang, Tao Shen, Ling Chen. Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation. arXiv preprint arXiv:2402.10699. [[arXiv](https://arxiv.org/abs/2402.10699)]
@@ -50,7 +50,7 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 # 📖 Educations
 - *2024.02 - Present*, <strong>Master of Research</strong> in Computing Sciences, University of Technology Sydney.
-- *2023.09 - 2023.11*, <strong>Master of Information Technology</strong> in Artificial Intelligence, University of New South Wales (Withdrawal).
+- *2023.09 - 2023.11*, <strong>Master of Information Technology</strong> in Artificial Intelligence, University of New South Wales.
 - *2019.09 - 2023.07*, <strong>BEng. (First Class Hons)</strong> in Data Science and Big Data Technology, University of Liverpool.
 - *2019.09 - 2023.07*, <strong>BEng. (First Class Hons)</strong> in Data Science and Big Data Technology, Xi’an Jiaotong-Liverpool University.
 
@@ -58,9 +58,8 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 - Lilin Wang (XJTLU BEng’24)
 - Jianfei He (XJTLU BEng’24)
 
-# 👍 Friends
+# 👍 Collaborators
 - [Zimu Wang](https://www.zimuwang.net/) Ph.D. @ UoL & XJTLU, Suzhou, China.
-- [Ruiyu Zhang](https://www.cnblogs.com/rayinfos/) Master @ Edin, Edinburgh, United Kingdom.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
