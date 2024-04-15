@@ -60,6 +60,7 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 # 👍 Collaborators
 - [Zimu Wang](https://www.zimuwang.net/) Ph.D. @ UoL & XJTLU, Suzhou, China.
+- Shumao Yu Msc @ UU, Utrecht, Netherlands.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
