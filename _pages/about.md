@@ -55,7 +55,7 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 - *2019.09 - 2023.07*, <strong>BEng. (First Class Hons)</strong> in Data Science and Big Data Technology, Xi’an Jiaotong-Liverpool University.
 
 # 🎓 Mentoring
-- Lilin Wang (XJTLU BEng’24)
+- Lilin Wang (XJTLU BEng’24 → UPenn Mse’26)
 - Jianfei He (XJTLU BEng’24)
 
 # 👍 Collaborators
