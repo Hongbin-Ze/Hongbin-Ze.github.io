@@ -27,14 +27,14 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 One paper accepted by **LREC-COLING 2024**: [CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health  Question Answering](https://arxiv.org/abs/2403.16008).
+- *2024.02*: &nbsp;🎉🎉 One paper accepted by **LREC-COLING 2024**: [CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health  Question Answering](https://aclanthology.org/2024.lrec-main.261/).
 - *2024.02*: &nbsp;🎉🎉 New preprint: [Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation](https://arxiv.org/abs/2402.10699).
 - *2024.02*: &nbsp;🎉🎉 Starting from Feb. 2024, I am honored to join the [UTS NLP](https://utsnlp.github.io/) Group as a Master of Research student, advised by [Prof. Ling Chen](https://profiles.uts.edu.au/Ling.Chen).
 - *2023.10*: &nbsp;🎉🎉 One paper accepted by **BIBE 2023**: <a href="https://ieeexplore.ieee.org/document/10431887">Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis</a>.
 
 # 📝 Publications 
 ## Conference Proceedings:
-- [C2] **Hongbin Na**. CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health  Question Answering. *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation* **(LREC-COLING 2024)**. [[arXiv](https://arxiv.org/abs/2403.16008), [Hugging Face](https://huggingface.co/Hongbin37/CBT-LLM)].
+- [C2] **Hongbin Na**. CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health  Question Answering. *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation* **(LREC-COLING 2024)**. [[ACL Anthology](https://aclanthology.org/2024.lrec-main.261/), [arXiv](https://arxiv.org/abs/2403.16008), [Hugging Face](https://huggingface.co/Hongbin37/CBT-LLM)].
 - [C1] **Hongbin Na\***, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, Zimu Wang, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* **(BIBE 2023)**. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10431887)].
 
 ## Patents:
@@ -50,7 +50,7 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 # 📖 Educations
 - *2024.02 - Present*, <strong>Master of Research</strong> in Computing Sciences, University of Technology Sydney.
-- *2023.09 - 2023.11*, <strong>Master of Information Technology</strong> in Artificial Intelligence, University of New South Wales.
+- *2023.09 - 2024.2*, <strong>Master of Information Technology</strong> in Artificial Intelligence, University of New South Wales.
 - *2019.09 - 2023.07*, <strong>BEng. (First Class Hons)</strong> in Data Science and Big Data Technology, University of Liverpool.
 - *2019.09 - 2023.07*, <strong>BEng. (First Class Hons)</strong> in Data Science and Big Data Technology, Xi’an Jiaotong-Liverpool University.
 
