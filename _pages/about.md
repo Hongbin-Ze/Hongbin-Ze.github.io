@@ -43,7 +43,6 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 ## Technical Reports:
 - [T1] **Hongbin Na**, Zimu Wang, Mieradilijiang Maimaiti, Tong Chen, Wei Wang, Tao Shen, Ling Chen. Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation. arXiv preprint arXiv:2402.10699. [[arXiv](https://arxiv.org/abs/2402.10699)]
 
-
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -58,8 +57,9 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 - Lilin Wang (XJTLU BEng’24 → UPenn Mse’26)
 - Jianfei He (XJTLU BEng’24)
 
-# 👍 Collaborators
+# 🤗 Collaborators
 - [Zimu Wang](https://www.zimuwang.net/) Ph.D. @ UoL & XJTLU, Suzhou, China.
+- [Yining Hua](https://ningkko.wordpress.com/about-me/) Ph.D. @ Harvard, Boston, United States.
 - Shumao Yu Msc @ UU, Utrecht, Netherlands.
 
 <!-- # 💬 Invited Talks
