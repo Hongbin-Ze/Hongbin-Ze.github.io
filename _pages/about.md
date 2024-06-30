@@ -58,9 +58,9 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 - Jianfei He (XJTLU BEng’24)
 
 # 🤗 Collaborators
-- [Zimu Wang](https://www.zimuwang.net/) Ph.D. @ UoL & XJTLU, Suzhou, China.
-- [Yining Hua](https://ningkko.wordpress.com/about-me/) Ph.D. @ Harvard, Boston, United States.
-- Shumao Yu Msc @ UU, Utrecht, Netherlands.
+- [Zimu Wang](https://www.zimuwang.net/)
+- [Yining Hua](https://ningkko.wordpress.com/about-me/)
+- Shumao Yu Msc
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
