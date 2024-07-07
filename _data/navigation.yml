@@ -15,7 +15,10 @@ main:
   - title: "Mentoring"
     url: "/#-mentoring"
 
-  - title: "Friends"
-    url: "/#-friends"
+  - title: "Collaborators"
+    url: "/#-collaborators"
+
+  - title: "Services"
+    url: "/#-academic-service"
 
 

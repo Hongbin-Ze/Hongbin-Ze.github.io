@@ -60,6 +60,9 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 - [Yining Hua](https://ningkko.wordpress.com/about-me/)
 - Shumao Yu
 
+# 🕵️‍♂️ Academic Service
+- 2024, ACL SRW
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
