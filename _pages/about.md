@@ -25,6 +25,7 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 I am awarded by the OpenAI Researcher Access Program. Many thanks!!!
 - *2024.02*: &nbsp;🎉🎉 One paper accepted by **LREC-COLING 2024**: [CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health  Question Answering](https://aclanthology.org/2024.lrec-main.261/).
 - *2024.02*: &nbsp;🎉🎉 New preprint: [Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation](https://arxiv.org/abs/2402.10699).
 - *2024.02*: &nbsp;🎉🎉 Starting from Feb. 2024, I am honored to join the [UTS NLP](https://utsnlp.github.io/) Group as a Master of Research student, advised by [Prof. Ling Chen](https://profiles.uts.edu.au/Ling.Chen).
