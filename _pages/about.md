@@ -54,7 +54,7 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 # 🎓 Mentoring
 - Lilin Wang (XJTLU BEng’24 → UPenn Mse’26)
-- Jianfei He (XJTLU BEng’24)
+- Jianfei He (XJTLU BEng’24 → HKUST Mse’25)
 
 # 🤗 Collaborators
 - [Zimu Wang](https://www.zimuwang.net/)
