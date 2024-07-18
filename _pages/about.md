@@ -48,7 +48,7 @@ Hongbin Na is open to collaborations. If you’re interested in working with him
 
 # 📖 Educations
 - *2024.02 - Present*, <strong>Master of Research</strong> in Computing Sciences, University of Technology Sydney.
-- *2023.09 - 2024.2*, <strong>Master of Information Technology</strong> in Artificial Intelligence, University of New South Wales. 
+- *2023.09 - 2024.02*, <strong>Master of Information Technology</strong> in Artificial Intelligence, University of New South Wales. 
 - *2019.09 - 2023.07*, <strong>BEng. (First Class Hons)</strong> in Data Science and Big Data Technology, University of Liverpool.
 - *2019.09 - 2023.07*, <strong>BEng. (First Class Hons)</strong> in Data Science and Big Data Technology, Xi’an Jiaotong-Liverpool University.
 
