@@ -4,18 +4,14 @@ title: "Home"
 class: home
 ---
 
-<h1> Hi, I'm Ashish Sharma </h1>
+<h1> Hi, I'm Hongbin Na </h1>
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a fifth-year PhD candidate in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where I am advised by [Tim Althoff](http://timalthoff.com/). 
+I'm a first-year Master of Research student in [Australian AI Institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute) at  [University of Technology Sydney](https://www.uts.edu.au/), where I am advised by [Ling Chen](https://profiles.uts.edu.au/Ling.Chen) (UTS) and supervised by [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) (Oracle). I am also affiliated with the [University of Technology Sydney Natural Language Processing](https://utsnlp.github.io/) (UTS NLP) Group.
 
-<!-- <b>I'm on the job market!</b> If you think we would be a good match, please [reach out](mailto:ashshar@cs.washington.edu). -->
-
-I study <b>how AI can support human well-being</b>. My long-term research goal is to develop human-centered AI systems that can empower people in real-world tasks. Broadly, I'm interested in Natural Language Processing, Human-AI Collaboration, Computational Social Science, and Mental Health. I'm supported by the [JP Morgan Chase AI Research PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship-2023/ashish-sharma).
-
-My research has been recognized with an <b>outstanding paper award</b> from <a href="https://2023.aclweb.org/program/best_papers/">ACL</a>, a <b>best paper award</b> from <a href="https://www.youtube.com/watch?v=4my9W24oifs&t=763s">The Web Conference</a> and has been <b>deployed in the real-world</b> by <a href="https://screening.mhanational.org/changing-thoughts-with-an-ai-assistant/">Mental Health America</a>.
+My research interests focus on the field of Natural Language Processing (NLP), specifically in dialogue systems and mental health. My goal is to combine psychology with large language models (LLMs) to explore and develop models capable of understanding complex human emotions and cognitive processes. If you’re interested in working with me, please feel free to send an email.
 
 
 </div>
@@ -24,49 +20,16 @@ My research has been recognized with an <b>outstanding paper award</b> from <a h
 <picture>
   <!-- <source srcset='/images/dominik_berlin.webp' type='image/webp' /> -->
   <img
-    src='/images/ashish-headshot.jpeg'
-    alt='Ashish Sharma'>
+    src='images/profile.png'
+    alt='Hongbin Na'>
 </picture>
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 </div>
 
+
 </div>
-
-Previously, I was a Research Fellow at Microsoft Research. I have a Bachelor's and Master's degree in computer science from the Indian Institute of Technology, Kharagpur. I have also done research internships at Microsoft Research, University of Illinois at Urbana-Champaign and Adobe Research Lab. Details in my <a href="{{ "/cv/" | relative_url }}">CV</a>.
-
-## Featured Projects
-
-<div class="featured-projects">
-  {% assign sorted_projects = site.data.projects | sort: 'highlight' %}
-  {% for project in sorted_projects %}
-    {% if project.highlight %}
-      {% include project.html project=project %}
-    {% endif %}
-  {% endfor %}
-</div>
-
-<!-- ## Featured <a href="{{ "/publications/" | relative_url }}">Publications</a> -->
-
-<!-- <div class="featured-publications">
-  {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
-  {% for pub in sorted_publications %}
-    {% if pub.highlight %}
-      <a href="{{ pub.pdf }}" class="publication">
-        <strong>{{ pub.title }}</strong>
-        <span class="authors">{% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>.
-        <i>{% if pub.venue %}{{ pub.venue }}, {% endif %}{{ pub.year }}</i>.
-        {% for award in pub.awards %}<br/><span class="award"><i class="fas fa-{% if award == "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</span>{% endfor %}
-      </a>
-    {% endif %}
-  {% endfor %}
-</div> -->
-
-<a href="{{ "/publications/" | relative_url }}" class="button">
-  <i class="fas fa-chevron-circle-right"></i>
-  Show All Publications
-</a>
 
 <div class="news-travel" markdown="1">
 
@@ -100,3 +63,5 @@ Previously, I was a Research Fellow at Microsoft Research. I have a Bachelor's a
 </div>
 
 </div>
+
+

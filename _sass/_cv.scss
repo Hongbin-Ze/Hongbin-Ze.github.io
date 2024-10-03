@@ -76,6 +76,11 @@
 
   .right-align {
     text-align: right;
+
+    a {
+      white-space: nowrap;
+      display: inline-block;
+    }
   }
 
   .pub {

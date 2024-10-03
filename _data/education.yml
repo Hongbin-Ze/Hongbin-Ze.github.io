@@ -1,15 +1,22 @@
-- university: University of Washington
-  years: 2019-Present
+- university: University of Technology Sydney
+  years: 2024-Present
   degree: 
-  location: Seattle, WA, USA
+  location: Australia
   description:
-    - PhD Student in Computer Science
-- university: Indian Institute of Technology
-  years: 2013-2018
+    - Master of Research in Computing Sciences
+- university: The University of Liverpool
+  years: 2019-2023
   degree: 
-  location: Kharagpur, WB, India
+  location: United Kingdom
   awards:
-   - Student-Par Excellence Award
+   - First Class Honours
   description:
-    - Master of Technology in Computer Science
-    - Bachelor of Technology in Computer Science
+    - Bachelor of Engineering in Data Science and Big Data Technology
+- university: Xi'an Jiaotong-Liverpool University
+  years: 2019-2023
+  degree: 
+  location: China
+  awards:
+   - First Class Honours
+  description:
+    - Bachelor of Engineering in Data Science and Big Data Technology
