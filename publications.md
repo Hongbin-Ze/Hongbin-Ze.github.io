@@ -50,7 +50,8 @@ class: pubs
 {% for year in sorted_pubyears %}
 ## {{ year.name }}
 {:#y{{ year.name }} .year}
-{% for pub in year.items %}
+{% assign sorted_pubs = year.items | sort: "date" | reverse %}
+{% for pub in sorted_pubs %}
   {% include publication.html pub=pub %}
 {% endfor %}
 {% endfor %}
