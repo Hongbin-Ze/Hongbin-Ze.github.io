@@ -13,9 +13,7 @@ I'm an a first-year Master of Research student in [Australian AI Institute](http
 
 My research interests focus on the field of Natural Language Processing (NLP), specifically in dialogue systems and mental health. My goal is to combine psychology with large language models (LLMs) to explore and develop models capable of understanding complex human emotions and cognitive processes. 
 
-<p style="font-weight: bold; color: #B2A5FF;">
-    😊 I'm always happy to collaborate with graduate/undergraduate students. Please drop me an email if you'd like to have a (virtual) coffee chat :)
-</p>
+I’m always open to collaborating with graduate/undergraduate students , especially those just starting out or from underrepresented backgrounds. Feel free to email me if you’d like to connect or have a virtual coffee chat! 😊
 
 </div>
 
