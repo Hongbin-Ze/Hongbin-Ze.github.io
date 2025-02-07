@@ -23,7 +23,7 @@ I’m always open to collaborating with graduate/undergraduate students , especi
   <img
     src='images/profile.png'
     alt='Hongbin Na'
-    width='300'>
+    style='max-width: 100%; height: auto;'>
 </picture>
 
 {:.no-list}
