@@ -1,4 +1,7 @@
-- message: Received Best Short Paper Award from COLING 2025.
+- message: New Preprint Explores the Role of Large Language Models in Psychotherapy.
+  date: February 2025
+  url: https://arxiv.org/abs/2502.11095
+- message: Received **Best Short Paper Award** at COLING 2025.
   date: January 2025
 - message: One paper accepted by NAACL 2025!
   date: January 2025
@@ -10,6 +13,6 @@
   date: March 2024
   url: https://utsnlp.github.io/
 - message: One paper accepted by LREC-COLING 2024!
-  date: Feb 2024
+  date: February 2024
   url: https://aclanthology.org/2024.lrec-main.261/
 
