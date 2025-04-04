@@ -6,22 +6,21 @@ title: CV
 
 <section class="container">
 
-<h1><a href="{{ absolute_url }}/">Hongbin Na</a></h1>
+<h1><a href="{{ absolute_url }}/">Ashish Sharma</a></h1>
 
 <small class="live-link">Last updated in <time datetime="{{ site.time }}">{{ site.time | date: '%B %Y'}}</time>. Get the latest version at <a href="{{ '/cv' | absolute_url }}">ash-shar.github.io/cv</a>.</small>
 
 <div class="header-columns">
   <div>
     <p>
-      Australian AI Institute,<br>
-      University of Technology Sydney<br>
+		Paul G. Allen School of Computer Science and Engineering, University of Washington<br/>
     </p>
   </div>
   <div>
     <p class="right-align">
-      <a href="{{ absolute_url }}/"><i class="fas fa-link"></i> hongbin-ze.github.io</a><br/>
-      <a href="https://scholar.google.com/citations?user=mxK_3hYAAAAJ"><i class="fas fa-graduation-cap"></i> google scholar</a><br/>
-	  <a href="mailto:hongbin.na@student.uts.edu.au"><i class="fas fa-envelope"></i> hongbin.na@student.uts.edu.au</a>
+      <a href="{{ absolute_url }}/"><i class="fas fa-link"></i> ash-shar.github.io</a><br/>
+      <a href="https://scholar.google.com/citations?hl=en&user=AHUNnG0AAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-graduation-cap"></i> google scholar</a><br/>
+	  <a href="mailto:ashshar@cs.washington.edu"><i class="fas fa-envelope"></i> ashshar@cs.washington.edu</a>
     </p>
   </div>
 </div>
@@ -109,7 +108,7 @@ To enhance people's ability to understand and communicate large and complex data
 
 {% assign sorted_pubs = site.publications | reverse %}
 
-{% assign types = "Conference|Preprint" | split: "|" %}
+{% assign types = "Conference|Journal|Preprint|Demo|Workshop" | split: "|" %}
 {% for type in types %}
   {% assign counter = 1 %}
   {% for pub in sorted_pubs %}
@@ -184,6 +183,39 @@ To enhance people's ability to understand and communicate large and complex data
 {% endfor %}
 
 
+
+<h2><b>Invited Talks</b></h2>
+
+{% assign talktitles = site.data.talks | group_by:"title" %}
+{% for title in talktitles %}
+<article>
+  <h3 class="cv-talk-title">{{ title.name }}</h3>
+  {% assign sorted_talks = title.items | sort: 'date' | reverse %}
+  {% for talk in sorted_talks %}
+    <div class="date-container">
+      <time datetime="{{ talk.date }}">{{ talk.date | date: "%b %Y" }}</time>
+      <span class="fill">{{ talk.location }}{% if talk.city %}, <small class="muted">{{ talk.city }}</small>{% endif %}</span>
+
+    </div>
+  {% endfor %}
+</article>
+{% endfor %}
+
+<p></p>
+<h2><b>Media Coverage</b></h2>
+{% for media in site.data.media %}
+<article>
+	<h3 class="cv-talk-title">{{ media.website }}</h3>
+	<div class="date-container">
+		<time datetime="{{ media.date }}">{{ media.date | date: "%b %Y" }}</time>
+		{% if media.type == "news" %}<span class="fill"><a href="{{media.url}}"><i class="fas fa-newspaper"></i>&nbsp;{{ media.title }}</a> </span>
+		{% else if media.type == "video" %}<span class="fill"><a href="{{media.url}}"><i class="fas fa-video"></i>&nbsp;{{ media.title }}</a> </span>
+		{% endif %}
+	  </div>
+
+</article>
+{% endfor %}
+
 <p></p>
 <h2><b>Student Mentoring</b></h2>
 
@@ -210,6 +242,28 @@ To enhance people's ability to understand and communicate large and complex data
 {% endfor %}
 
 
+<h2><b>Teaching</b></h2>
+
+{% for teach in site.data.teaching %}
+<article>
+  <div class="date-container">
+    <span class="date">{{ teach.year }}</span>
+    <strong class="fill">{{ teach.title }}</strong>
+    <span class="right">{{ teach.location }}</span>
+  </div>
+  <p>
+    {% if teach.students %}
+      {% if teach.role %}{{ teach.role }}{% endif %}{% if teach.professor %} for {% include person person=teach.professor %}{% endif %},
+      {{ teach.students }}
+      <br/>
+    {% endif %}
+    <span class="muted">
+      {{ teach.role | markdownify | remove: '<p>' | remove: '</p>' }} (with {% include person person=teach.professor %})
+    </span>
+	
+  </p>
+</article>
+{% endfor %}
 
 
 <h2><b>Service</b></h2>
@@ -223,7 +277,16 @@ To enhance people's ability to understand and communicate large and complex data
 
 	{% endfor %}
 
+<h2><b>Relevant Coursework</b></h2>
 
+{% for area in site.data.courses %}
+	<article class="pub">
+		<div class="ref-container">{{ area.title }}</div>
+			<span class="fill">
+				{{area.courses}}</span>
+		<p></p>
 
+	</article>
+{% endfor %}
 
 </section>
