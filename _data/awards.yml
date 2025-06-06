@@ -1,6 +1,9 @@
+- name: Label Studio Academic Program
+  years: 2025
+  description: One-year [HumanSignal](https://humansignal.com/) license
 - name: COLING 2025 Best Short Paper Award
   years: 2025
-  description: For "Detecting Conversational Mental Manipulation with Intent-Aware Prompting"
+  description: For "[Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://aclanthology.org/2025.coling-main.616.pdf)"
 - name: OpenAI Researcher Access Program
   years: 2024
   description: 5000$
