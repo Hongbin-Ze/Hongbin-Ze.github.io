@@ -66,4 +66,9 @@ I’m always open to collaborating with graduate/undergraduate students, particu
 
 </div>
 
+<div class="quote-section" markdown="1">
+> "Let's beat these illnesses with research, but also by creating a world in which nobody feels reluctant to talk openly."
+> 
+> *— Felix Hill*
+</div>
 
