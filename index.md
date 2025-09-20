@@ -21,7 +21,7 @@ I’m always open to collaborating with graduate/undergraduate students, particu
 <picture>
   <!-- <source srcset='/images/dominik_berlin.webp' type='image/webp' /> -->
   <img
-    src='images/profile.png'
+    src='images/GeminiGeneratedProfile.png'
     alt='Hongbin Na'
     style='max-width: 100%; height: auto;'>
 </picture>
