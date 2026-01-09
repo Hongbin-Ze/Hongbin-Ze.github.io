@@ -1,4 +1,7 @@
 - name: Label Studio Academic Program
+  years: 2026
+  description: One-year HumanSignal License
+- name: Label Studio Academic Program
   years: 2025
   description: One-year HumanSignal License
 - name: COLING 2025 Best Short Paper Award
