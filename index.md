@@ -9,9 +9,9 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm an a second-year Master of Research student in [Australian AI Institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute) at  [University of Technology Sydney](https://www.uts.edu.au/), affiliated with the [UTS NLP Group](https://utsnlp.github.io/), where I am advised by [Ling Chen](https://profiles.uts.edu.au/Ling.Chen) (UTS), supervised by [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) (Oracle) and work closely with [John Torous](https://corporatelearning.hms.harvard.edu/faculty-staff/john-torous) (Harvard) and [Shaoxiong Ji](https://shaoxiongji.github.io/) (ELLIS Institute Finland & University of Turku).
+I'm an a second-year Master of Research student in [Australian AI Institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute) at  [University of Technology Sydney](https://www.uts.edu.au/), affiliated with the [UTS NLP Group](https://utsnlp.github.io/), where I am advised by [Ling Chen](https://profiles.uts.edu.au/Ling.Chen) (UTS), supervised by [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) (Oracle) and work closely with [John Torous](https://connects.catalyst.harvard.edu/Profiles/display/Person/109089) (Harvard) and [Shaoxiong Ji](https://shaoxiongji.github.io/) (ELLIS Institute Finland & University of Turku).
 
-My research interests focus on the field of Natural Language Processing (NLP), specifically in dialogue systems and mental health. My goal is to combine psychology with large language models (LLMs) to explore and develop models capable of understanding complex human emotions and cognitive processes. My research has received [650+ citations](https://scholar.google.com/citations?user=mxK_3hYAAAAJ).
+My research interests focus on the field of Natural Language Processing (NLP), specifically in dialogue systems and mental health. My goal is to combine psychology with large language models (LLMs) to explore and develop models capable of understanding complex human emotions and cognitive processes.
 
 I’m always open to collaborating with graduate/undergraduate students, particularly for **beginners** and **the underrepresented**. Feel free to email me if you’d like to connect or have a virtual coffee chat! 😊
 
